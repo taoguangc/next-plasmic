@@ -736,8 +736,6 @@
   flex-direction: row;
   max-width: var(--token-DhwOC_V_MEFF);
   min-width: 0;
-  padding: 1px 0px 0px;
-  margin: 0px;
 }
 .columns__w5Trb > :global(.__wab_flex-container) {
   align-items: stretch;

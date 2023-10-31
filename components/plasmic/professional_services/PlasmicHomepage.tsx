@@ -186,7 +186,9 @@ function PlasmicHomepage__RenderFunc(props: {
                         sty.h1
                       )}
                     >
-                      {"Choose us for marketing photography"}
+                      {
+                        "\u9009\u62e9\u6211\u4eec\n\u8fdb\u884c\u8425\u9500\u6444\u5f71"
+                      }
                     </h1>
                     <div
                       className={classNames(
@@ -247,7 +249,7 @@ function PlasmicHomepage__RenderFunc(props: {
                   >
                     {hasVariant(globalVariants, "screen", "mobileOnly")
                       ? "Why Choose Us"
-                      : "Why choose us"}
+                      : "\u4e3a\u4ec0\u4e48\u9009\u62e9\u6211\u4eec"}
                   </h2>
                   <p.Stack
                     as={"div"}
